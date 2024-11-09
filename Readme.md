@@ -57,3 +57,12 @@ Ja, hin und wieder habe ich gut gestruggelt, ABER es hat alles geklappt, so wie 
 
 Morgen geht es weiter mit der Implementierung.  
 Ich freu mich!
+
+- **Tag 2 (Samstag)**:  Scheiß Tag xD
+
+Heute geht es die Datenbank zu füllen, die jeweiligen Charactere sind bei meiner API ja schon in ihrem House, Jedoch geht es hier ja auch um die Speels.
+Das was ich Gestern gecodet habe hat Sinn gemacht.
+Das was ich heute Code macht in manchen dingen sinn aber in manchen nicht.
+Ich habe zwar die Tabellen erstellt im Model , ABER ich kriege keine Tabelle angezeigt.
+Das verstehe ich nicht.
+FehlerCode in der Konsole habe ich auch nicht.
