@@ -64,3 +64,7 @@ Heute geht es darum, die Datenbank zu füllen. Die jeweiligen Charaktere sind in
 jedoch geht es hier auch um die Zauber (Spells). Was ich gestern programmiert habe, hat Sinn ergeben. Das, was ich heute programmiere,
 ergibt teilweise Sinn, aber in manchen Dingen auch nicht. Ich habe zwar die Tabellen im Modell erstellt, ABER ich bekomme keine Tabelle angezeigt.
 Das verstehe ich nicht. Auch in der Konsole erhalte ich keinen Fehlercode.
+
+- **Tag 3 (Sonntag)**: Langer Tag
+
+Ich war die Nacht länger wach und hatte mir viele Tutorials auf YouTube angesehen. Außerdem habe ich mich noch intensiver in die Laravel-Dokumentation eingelesen. Heute habe ich es geschafft, eine 'fetch'-Datei im Ordner Console/Command zu erstellen. Allerdings merke ich, dass ich zwar alle Daten aufrufen kann, diese aber nicht in einer Tabelle angezeigt werden, sondern nur in einer Liste. Selbst wenn ich im Frontend "Tablet" benutze, bekomme ich keine Tabelle. Ich denke, dass ich die Aufgabe nicht zu 100 % schaffe, aber das ist nicht schlimm, denn ich habe sehr, sehr viel dazu gelernt und viele Notizen gemacht. Und das Wichtigste: Es hat mega Spaß gemacht. Ich werde dennoch weiter daran arbeiten, selbst nach der Präsentation, da es mich schon sehr wurmt, dass ich es nicht schaffe.

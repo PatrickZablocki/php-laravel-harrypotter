@@ -45,7 +45,7 @@
     <h2>Spells</h2>
     <ul>
         @foreach ($spells as $spell)
-            <li>{{ $spell->name }}</li>
+            <li>{{ $spell->name }} - {{ $spell->effect ?? 'Kein Effekt' }}</li>
         @endforeach
     </ul>
 </body>
