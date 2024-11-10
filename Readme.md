@@ -49,7 +49,7 @@ Ich habe vier Tage Zeit, diese Aufgaben zu bearbeiten:
 
 - **Tag 3 (Sonntag)**: Refactoring der `ProductParser.php`-Datei. Optimierung und Anwendung von Clean Code-Prinzipien. Abschließende Tests und Verbesserungen sowie Dokumentation meiner Arbeit.
 
-
+# Documentation
 - **Tag 1 (Freitag)**: Geiler Tag!!
 
 Das Durchlesen der Laravel-Documentation und YouTube-Videos hat mir sehr geholfen.  
@@ -58,11 +58,9 @@ Ja, hin und wieder habe ich gut gestruggelt, ABER es hat alles geklappt, so wie 
 Morgen geht es weiter mit der Implementierung.  
 Ich freu mich!
 
-- **Tag 2 (Samstag)**:  Scheiß Tag xD
+- **Tag 2 (Samstag)**: Schlechter Tag xD
 
-Heute geht es die Datenbank zu füllen, die jeweiligen Charactere sind bei meiner API ja schon in ihrem House, Jedoch geht es hier ja auch um die Speels.
-Das was ich Gestern gecodet habe hat Sinn gemacht.
-Das was ich heute Code macht in manchen dingen sinn aber in manchen nicht.
-Ich habe zwar die Tabellen erstellt im Model , ABER ich kriege keine Tabelle angezeigt.
-Das verstehe ich nicht.
-FehlerCode in der Konsole habe ich auch nicht.
+Heute geht es darum, die Datenbank zu füllen. Die jeweiligen Charaktere sind in meiner API bereits ihren Häusern zugeordnet,
+jedoch geht es hier auch um die Zauber (Spells). Was ich gestern programmiert habe, hat Sinn ergeben. Das, was ich heute programmiere,
+ergibt teilweise Sinn, aber in manchen Dingen auch nicht. Ich habe zwar die Tabellen im Modell erstellt, ABER ich bekomme keine Tabelle angezeigt.
+Das verstehe ich nicht. Auch in der Konsole erhalte ich keinen Fehlercode.

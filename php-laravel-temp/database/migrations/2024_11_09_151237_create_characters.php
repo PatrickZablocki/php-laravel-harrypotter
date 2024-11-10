@@ -13,11 +13,11 @@ class CreateCharacter extends Migration
     {   
         // Erstellung der Tabelle der Charactere um sie zu speichern
         Schema::create('characters', function (Blueprint $table) {
-            $table->id();
-            $table->string('name');
-            $table->foreignId('houses_id')->constrained('houses');
-            $table->string('role');
-            $table->timestamps();
+            $table->id(); // Automatische ID für jeden Charakter
+            $table->string('name'); // Name des Charakters als String
+            $table->foreignId('houses_id')->constrained('houses'); // Verknüpfung zu einem Haus, ähnlich wie eine Referenz in React-Props
+            $table->string('role'); // rolle des Characters ( Lehrer oder Student) als String
+            $table->timestamps(); // Auch hier ebenfalls eine Speicherung der Änderung Uhrzeit und datum
         });
     }
 

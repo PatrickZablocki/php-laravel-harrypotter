@@ -11,11 +11,12 @@ class CreateHouses extends Migration
      */
     public function up(): void
     {
+        // Erstellung einer Tabelle der Häuser um sie zu speichern
         Schema::create('houses', function (Blueprint $table) {
-            $table->id();
-            $table->string('name');
-            $table->text('description');
-            $table->timestamps();
+            $table->id(); // Ich füge eine Spalte "id" hinzu, die automatisch eine eindeutige ID für jeden Eintrag erstellt , ähnlich wie ein `key` in React.
+            $table->string('name'); // Hier erstelle ich eine Spalte 'name' vom Typ String  für die Namen der Häuser
+            $table->text('description'); // Erstellung einer Beschreibung der Häuser
+            $table->timestamps(); // Hier speichere ich Uhrzeit und Datum jeder Änderung 
         });
     }
 
